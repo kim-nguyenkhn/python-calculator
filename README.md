@@ -6,7 +6,7 @@ Very basic walkthrough of Python scripting.
 
 You can execute the Python script via command-line (CLI).
 
-```shell
+```python
 python calc.py <method_name> <variable_1> <variable_2>
 ```
 

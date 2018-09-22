@@ -20,10 +20,3 @@ y = int(list_of_args[2])
 # print "method: %s\nx: %s\ny: %s" % (method, x, y)
 
 print method(x, y)
-
-'''
-Tasks:
-- Implement subtraction, division, and any other calculations.
-- Refactor this into a class implementation.
-- Make the script more "interactive" - users shouldn't have to memorize the method names.
-'''
